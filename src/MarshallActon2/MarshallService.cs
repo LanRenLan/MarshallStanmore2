@@ -98,7 +98,7 @@ public static class MarshallService
 
         var devices = bluetoothClient
             .PairedDevices
-            .Where(device => device.DeviceName.Equals("ACTON II", StringComparison.OrdinalIgnoreCase))
+            .Where(device => device.DeviceName.Equals("STANMORE II", StringComparison.OrdinalIgnoreCase))
             .ToList();
 
         return devices;
