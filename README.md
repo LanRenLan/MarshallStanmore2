@@ -1,4 +1,4 @@
-# Marshall Acton II
+# Marshall Stanmore II
 
 ## Introduction
 One of the main problems with the Marshall Stanmore 2 speakers is that it will go to sleep mode after being idle for a couple of minutes and therefore disconnect from the operating system. 
