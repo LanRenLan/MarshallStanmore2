@@ -2,7 +2,7 @@
 using InTheHand.Net.Bluetooth;
 using InTheHand.Net.Sockets;
 
-namespace MarshallActon2;
+namespace MarshallStanmore2;
 
 public static class MarshallService
 {
